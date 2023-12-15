@@ -1,13 +1,3 @@
-// window.addEventListener("DOMContentLoaded", (event) => {
-//     console.log("window loaded");
-
-//     setInterval(() => {
-//         let dullanSelector = document.querySelector(".dullan");
-//         if (!dullanSelector) {
-//             addDullan();
-//         }
-//     }, 10);
-// });
 
 setInterval(() => {
     let dullanSelector = document.querySelector(".dullan");
